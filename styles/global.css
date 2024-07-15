@@ -38,7 +38,7 @@ button {
 
 h1,
 h2 {
-  font: var(--ff-secondary)
+  font: 500 1rem/1.5 var(--ff-secondary)
 }
 
 h1 {
