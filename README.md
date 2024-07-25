@@ -7,7 +7,7 @@
 ## Projeto
 > Formação FullStack
 
-Neste projeto, desenvolvido durante a aula, criamos uma landing page com animações em CSS. Além disso, aproveitei a oportunidade para aprender a transformar a landing page em uma versão responsiva e adaptada para dispositivos móveis.
+Neste projeto, desenvolvido durante a aula, criamos uma landing page com animações em CSS.
 
 
 ## 🛠️ Tecnologias utilizadas
